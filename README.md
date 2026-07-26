@@ -30,7 +30,7 @@ Segment-level view: customers grouped into RFM-based segments (Champions, Loyal 
 Churn breakdown by segment: bar chart showing churned vs. retained customers within each segment.
 Filterable risk table: a sortable, slicer-driven table listing customers by churn risk score, filterable by segment and country — allowing a retention team to act directly on the highest-risk accounts.
 
-📁 churn_dashboard.pbix — open in Power BI Desktop to explore interactively.
+📁 churn_risk.pbix — open in Power BI Desktop to explore interactively.
 
 <img width="1812" height="831" alt="Ekran görüntüsü 2026-07-26 155557" src="https://github.com/user-attachments/assets/22e2bd74-3780-4491-9aec-ee408479ecbe" />
 
